@@ -27,6 +27,9 @@
 ## Link to Game
 -   https://lucy839.github.io/unit-4-game-2/
 
+## Demo 
+- ![Alt text](assets/images/demo.png?raw=true  "demo")
+
 
 
 
